@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: black;
+}
+
+.navbar-brand{
+	font-family: "BlairMdITC TT", monospace;
+}
+
+.navbar{
+	z-index: 1;
+}
+
+.auduiolux{
+	font-family: "BlairMdITC TT", monospace;
+}
+
+.bg-black{
+	background-color: black;
+}
+.nav-link{
+	color: white;
+}
+
+.card{
+	background-color:black;
+}
+.card-body{
+	background-color: rgba(39,39,39,1.00);
+	border: 3px solid black;
+	border-radius: 2em;
+}
+
+.card-text{
+	color: white;
+}
+
+.card-title{
+	color: white;
+}
+
+.btn-primary{
+	color: black;
+	background-color: #D1D1D1;
+	border-color: #D1D1D1;
+	border-radius: 0.5em;
+}
+
+.btn-primary:hover{
+	color: white;
+	background-color: black;
+	border-color: black;
+}
+
+.newsletter{
+	background-image: url("file:///Macintosh HD/Users/sarahr/Documents/Web Design/Projects/Audiolux/pixel_bg.png");
+}
+.footer{
+	background-color: #E3E3E3;
+	color:black;
+}
